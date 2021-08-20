@@ -1,2 +1,2 @@
-# react-crm
+# MERN-CRM
 MERN stack CRM 
